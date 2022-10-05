@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there! 
+
+### About Me
+
+**🎓 Third-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
+
+**💻 Majoring in Software Engineering**
+
+**📫 Email: wxw19981014@gmail.com**
+
+**😆 Ask me anything <a href="https://github.com/Alima777/Alima777/issues">here</a>**
