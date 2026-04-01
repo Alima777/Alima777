@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-**🎓 Third-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
+**🎓 Master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
 
 **💻 Majoring in Software Engineering**
 
